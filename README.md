@@ -1,6 +1,6 @@
 # Realtime Comment Voting
 
-Demo of a realtime Comment voting system with React and Pusher Channels. Tutorial:
+Demo of a realtime Comment voting system with React and Pusher Channels. Tutorial: https://pusher.com/tutorials/comment-voting-react-node
 
 ## Getting Started
 
